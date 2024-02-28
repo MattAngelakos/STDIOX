@@ -1,8 +1,3 @@
-/*
-Name: Matthew Angelakos
-Pledge: I pledge my honor that I have abided by the Stevens Honor System.
-I did the extra credit!
-*/
 #include <unistd.h>
 #include <sys/stat.h>
 #include <sys/types.h>
